@@ -1,4 +1,4 @@
-![Github]{}
+![Github]{https://github.com/juliaturubia/Scratch/blob/main/scratch.png}
 # Scratch
 Introdução a lógica de Programação 
 ## Autor
