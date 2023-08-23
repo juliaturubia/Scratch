@@ -14,4 +14,4 @@ Julia Picole Turubia
 - [Cálculo Hora de Serviço](https://scratch.mit.edu/projects/885298628)
 
 Certificado Code
-![Github](https://github.com/juliaturubia/Scratch/blob/main/certificadocode.pdf)
+![Github](https://github.com/juliaturubia/Scratch/blob/main/certifi.jpg)
