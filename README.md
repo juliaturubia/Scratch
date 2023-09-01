@@ -17,7 +17,8 @@ Julia Picole Turubia
 - [Circuito AND](https://scratch.mit.edu/projects/888053943)
 - [Circuito OR](https://scratch.mit.edu/projects/888073613)
 - [Circuito NOT](https://scratch.mit.edu/projects/888070273)
+
   
-Certificado Code
+## Certificado Code
 
 ![Github](https://github.com/juliaturubia/Scratch/blob/main/certifi.jpg)
